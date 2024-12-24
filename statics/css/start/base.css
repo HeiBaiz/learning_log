@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     /* 设置背景图片 */
-    background-image: url('../images/start/index.jpg');
+    background-image: url('../../images/start/index.jpg');
     /* 背景图片不重复 */
     background-repeat: no-repeat;
     /* 背景图片覆盖整个页面 */
